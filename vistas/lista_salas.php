@@ -34,10 +34,10 @@ if (!isset($_SESSION["nombre"])) {
         <div class=" panel-body table-responsive" id="listadoregistros">
           <table id="tblistado" class="table table-sm align-items-center mb-0">
             <thead>
-              <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Nombre</th>
+              <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Departamento</th>
               <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Ubicacion</th>
               <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Descripcion</th>
-              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Usuario ID</th>
+              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Propietario</th>
               <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Estado</th>
               <th></th>
             </thead>

@@ -1723,6 +1723,7 @@ var FullCalendar = (function (exports) {
         dayHeaders: true,
         initialView: '',
         aspectRatio: 1.35,
+        locale: 'es',
         headerToolbar: {
             start: 'title',
             center: '',

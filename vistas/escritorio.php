@@ -29,7 +29,7 @@ if (!isset($_SESSION["nombre"])) {
             $s = $sala->mostraru($_SESSION['idusuario']);
             // var_dump($s);
             ?>
-            <h5>Este es tu departamento</h5>
+            
             <table class="table table-striped table-responsive table-sm">
                 <tbody>
                     <tr>

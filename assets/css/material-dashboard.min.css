@@ -19280,6 +19280,7 @@ hr.horizontal.gray-light {
 .main-content,
 .sidenav {
   transition: all 0.2s ease-in-out;
+  width: 100vw;
 }
 .sidenav {
   z-index: 999;

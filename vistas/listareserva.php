@@ -21,7 +21,7 @@ if (!isset($_SESSION["nombre"])) {
         </div>
         <div class="text-end pt-1">
           <p class="text-sm text-capitalize mb-0">Lista de reservas</p>
-          <h4 class="mb-0">+<?= $respuesta->num_rows ?></h4>
+          <h4 class="mb-0">+<?= $respuesta->num_rows ?> Reservas</h4>
         </div>
       </div>
       <div class="card-body px-2 pb-2">
